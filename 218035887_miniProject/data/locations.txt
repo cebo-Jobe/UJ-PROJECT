@@ -1,0 +1,9 @@
+Inanda, Mahatma Gandhi Hospital, 12
+Inanda, Inkosi Albert Luthuli Hospital, 50
+Inanda, Addington Hospital, 74
+Gugulethu, Groote Schuur Hospital, 12
+Gugulethu, Tygerberg Hospital, 50
+Gugulethu, Red Cross War Memorial Childrens Hospital, 74
+Soweto, Chris Hani Baragwanath Hospital, 12
+Soweto, Helen Joseph Hospital, 50
+Soweto, Bheki Mlangeni District Hospital, 74
