@@ -17,11 +17,6 @@ The goal is to collect as many good balls as possible while avoiding bad balls. 
 Design:
 The game uses the Visitor design pattern to separate drawing and logic management. Each game element (like the Ball and Bucket) accepts a Visitor that manages how the objects are drawn, making the code more modular and maintainable.
 
-For your presentation, you can focus on:
-
-Game Objective: Catch green balls and avoid red ones.
-Game Mechanics: Bucket movement, points, lives, and increasing difficulty.
-Technical Design: Use of JavaFX for the user interface and the Visitor design pattern for object interaction.
 
 
 
