@@ -2,7 +2,7 @@ Objective
 The goal of this project is to develop a JavaFX-based application for managing and analyzing power consumption data across multiple towns. The application uses a graph-based data structure to represent towns and their connections via power lines, allowing for real-time monitoring and analysis of power usage.
 
 Key Features
-Graph Representation: 
+Graph Representation:
 
 Vertices represent towns.
 Edges represent power lines connecting towns with associated costs (power consumption rates).
